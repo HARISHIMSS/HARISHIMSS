@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARISH
+- 👋 Hi, I’m HARISH
 - 👀 I’m interested in Developing Computer World
 - 🌱 I’m currently learning Computer Intelligence
 - 💞️ I’m looking to collaborate on Coding Warriors
